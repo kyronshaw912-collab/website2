@@ -1,0 +1,11 @@
+[
+  {
+    "key": "NAMELESS-123",
+    "status": "active",
+    "expiresAt": "2026-04-30",
+    "lastUsedAt": "Never",
+    "hwidLocked": false,
+    "hwid": null,
+    "hwidResetCount": 1
+  }
+]
